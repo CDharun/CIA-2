@@ -1,0 +1,19 @@
+h1
+{
+    font-weight:100;
+    font-size: 45px;
+}
+.select
+{
+    width: 300px;
+    border: 300px;
+}
+.button
+{
+    margin-top: 150px;
+    border: 2px solid rgb(46, 59, 46);
+    width: 500px;
+    height: 20px;
+    border-radius: 200px;
+    padding:200px;
+}
